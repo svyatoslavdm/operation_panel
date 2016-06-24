@@ -1,0 +1,819 @@
+---- New trajectory ----
+Start state: 
+	joint[0]: 0
+	joint[1]: 0
+	joint[2]: -0.563567
+	joint[3]: 2.28809
+	joint[4]: 0.466876
+	joint[5]: 0.0253422
+	joint[6]: 1.77268
+	joint[7]: 3.14151
+	joint[8]: -0.239878
+	joint[9]: 0.564928
+	joint[10]: -1.47491
+	joint[11]: -0.0831998
+	joint[12]: -0.826797
+	joint[13]: 0.0659211
+	joint[14]: -0.0544991
+	joint[15]: 0.0544991
+Plan trajectory points: 10
+Point #0
+	joint[0]: -0.239878
+	joint[1]: 0.564928
+	joint[2]: -1.47491
+	joint[3]: -0.0831998
+	joint[4]: -0.826797
+	joint[5]: 0.0659211
+Point #1
+	joint[0]: -0.247461
+	joint[1]: 0.645404
+	joint[2]: -1.42901
+	joint[3]: -0.0727901
+	joint[4]: -0.820499
+	joint[5]: -0.124461
+Point #2
+	joint[0]: -0.255044
+	joint[1]: 0.72588
+	joint[2]: -1.38311
+	joint[3]: -0.0623803
+	joint[4]: -0.8142
+	joint[5]: -0.314843
+Point #3
+	joint[0]: -0.262628
+	joint[1]: 0.806356
+	joint[2]: -1.33722
+	joint[3]: -0.0519705
+	joint[4]: -0.807902
+	joint[5]: -0.505225
+Point #4
+	joint[0]: -0.270211
+	joint[1]: 0.886833
+	joint[2]: -1.29132
+	joint[3]: -0.0415607
+	joint[4]: -0.801603
+	joint[5]: -0.695607
+Point #5
+	joint[0]: -0.277794
+	joint[1]: 0.967309
+	joint[2]: -1.24542
+	joint[3]: -0.0311509
+	joint[4]: -0.795304
+	joint[5]: -0.885989
+Point #6
+	joint[0]: -0.285377
+	joint[1]: 1.04778
+	joint[2]: -1.19952
+	joint[3]: -0.0207411
+	joint[4]: -0.789006
+	joint[5]: -1.07637
+Point #7
+	joint[0]: -0.29296
+	joint[1]: 1.12826
+	joint[2]: -1.15362
+	joint[3]: -0.0103314
+	joint[4]: -0.782707
+	joint[5]: -1.26675
+Point #8
+	joint[0]: -0.300544
+	joint[1]: 1.20874
+	joint[2]: -1.10773
+	joint[3]: 7.84331e-05
+	joint[4]: -0.776409
+	joint[5]: -1.45714
+Point #9
+	joint[0]: -0.308127
+	joint[1]: 1.28921
+	joint[2]: -1.06183
+	joint[3]: 0.0104882
+	joint[4]: -0.77011
+	joint[5]: -1.64752
+---- New trajectory ----
+Start state: 
+	joint[0]: 0
+	joint[1]: 0
+	joint[2]: -0.563567
+	joint[3]: 2.28809
+	joint[4]: 0.466876
+	joint[5]: 0.0253422
+	joint[6]: 1.77268
+	joint[7]: 3.14151
+	joint[8]: -0.308037
+	joint[9]: 1.28921
+	joint[10]: -1.06184
+	joint[11]: 0.0104589
+	joint[12]: -0.770011
+	joint[13]: -1.64748
+	joint[14]: -0.0544991
+	joint[15]: 0.0544991
+Plan trajectory points: 13
+Point #0
+	joint[0]: -0.308037
+	joint[1]: 1.28921
+	joint[2]: -1.06184
+	joint[3]: 0.0104589
+	joint[4]: -0.770011
+	joint[5]: -1.64748
+Point #1
+	joint[0]: -0.308068
+	joint[1]: 1.29541
+	joint[2]: -1.05839
+	joint[3]: 0.0104877
+	joint[4]: -0.767269
+	joint[5]: -1.64749
+Point #2
+	joint[0]: -0.308099
+	joint[1]: 1.30165
+	joint[2]: -1.05483
+	joint[3]: 0.010516
+	joint[4]: -0.764585
+	joint[5]: -1.6475
+Point #3
+	joint[0]: -0.308131
+	joint[1]: 1.30792
+	joint[2]: -1.05119
+	joint[3]: 0.010544
+	joint[4]: -0.761959
+	joint[5]: -1.64751
+Point #4
+	joint[0]: -0.308162
+	joint[1]: 1.31422
+	joint[2]: -1.04745
+	joint[3]: 0.0105715
+	joint[4]: -0.759394
+	joint[5]: -1.64752
+Point #5
+	joint[0]: -0.308193
+	joint[1]: 1.32056
+	joint[2]: -1.04362
+	joint[3]: 0.0105986
+	joint[4]: -0.756888
+	joint[5]: -1.64753
+Point #6
+	joint[0]: -0.308224
+	joint[1]: 1.32694
+	joint[2]: -1.03969
+	joint[3]: 0.0106252
+	joint[4]: -0.754443
+	joint[5]: -1.64753
+Point #7
+	joint[0]: -0.308255
+	joint[1]: 1.33335
+	joint[2]: -1.03566
+	joint[3]: 0.0106513
+	joint[4]: -0.752059
+	joint[5]: -1.64754
+Point #8
+	joint[0]: -0.308287
+	joint[1]: 1.33979
+	joint[2]: -1.03154
+	joint[3]: 0.0106769
+	joint[4]: -0.749736
+	joint[5]: -1.64754
+Point #9
+	joint[0]: -0.308318
+	joint[1]: 1.34627
+	joint[2]: -1.02732
+	joint[3]: 0.010702
+	joint[4]: -0.747476
+	joint[5]: -1.64754
+Point #10
+	joint[0]: -0.308349
+	joint[1]: 1.35279
+	joint[2]: -1.023
+	joint[3]: 0.0107265
+	joint[4]: -0.74528
+	joint[5]: -1.64755
+Point #11
+	joint[0]: -0.30838
+	joint[1]: 1.35934
+	joint[2]: -1.01857
+	joint[3]: 0.0107504
+	joint[4]: -0.743147
+	joint[5]: -1.64755
+Point #12
+	joint[0]: -0.308411
+	joint[1]: 1.36593
+	joint[2]: -1.01405
+	joint[3]: 0.0107738
+	joint[4]: -0.741078
+	joint[5]: -1.64755
+---- New trajectory ----
+Start state: 
+	joint[0]: 0
+	joint[1]: 0
+	joint[2]: -0.563567
+	joint[3]: 2.28809
+	joint[4]: 0.466876
+	joint[5]: 0.0253422
+	joint[6]: 1.77268
+	joint[7]: 3.14151
+	joint[8]: -0.308411
+	joint[9]: 1.36593
+	joint[10]: -1.01405
+	joint[11]: 0.0107738
+	joint[12]: -0.741078
+	joint[13]: -1.64755
+	joint[14]: -0.0544991
+	joint[15]: 0.0544991
+Plan trajectory points: 21
+Point #0
+	joint[0]: -0.308411
+	joint[1]: 1.36593
+	joint[2]: -1.01405
+	joint[3]: 0.0107738
+	joint[4]: -0.741078
+	joint[5]: -1.64755
+Point #1
+	joint[0]: -0.308404
+	joint[1]: 1.35816
+	joint[2]: -1.01914
+	joint[3]: 0.0107425
+	joint[4]: -0.743765
+	joint[5]: -1.64752
+Point #2
+	joint[0]: -0.308396
+	joint[1]: 1.35044
+	joint[2]: -1.02408
+	joint[3]: 0.0107104
+	joint[4]: -0.746543
+	joint[5]: -1.64748
+Point #3
+	joint[0]: -0.308389
+	joint[1]: 1.34277
+	joint[2]: -1.02888
+	joint[3]: 0.0106776
+	joint[4]: -0.74941
+	joint[5]: -1.64744
+Point #4
+	joint[0]: -0.308382
+	joint[1]: 1.33516
+	joint[2]: -1.03354
+	joint[3]: 0.010644
+	joint[4]: -0.752366
+	joint[5]: -1.6474
+Point #5
+	joint[0]: -0.308374
+	joint[1]: 1.32759
+	joint[2]: -1.03807
+	joint[3]: 0.0106098
+	joint[4]: -0.755408
+	joint[5]: -1.64736
+Point #6
+	joint[0]: -0.308367
+	joint[1]: 1.32007
+	joint[2]: -1.04245
+	joint[3]: 0.010575
+	joint[4]: -0.758537
+	joint[5]: -1.64732
+Point #7
+	joint[0]: -0.30836
+	joint[1]: 1.31261
+	joint[2]: -1.0467
+	joint[3]: 0.0105395
+	joint[4]: -0.761752
+	joint[5]: -1.64728
+Point #8
+	joint[0]: -0.308352
+	joint[1]: 1.3052
+	joint[2]: -1.05082
+	joint[3]: 0.0105034
+	joint[4]: -0.76505
+	joint[5]: -1.64724
+Point #9
+	joint[0]: -0.308345
+	joint[1]: 1.29783
+	joint[2]: -1.0548
+	joint[3]: 0.0104669
+	joint[4]: -0.768432
+	joint[5]: -1.64719
+Point #10
+	joint[0]: -0.308338
+	joint[1]: 1.29052
+	joint[2]: -1.05865
+	joint[3]: 0.0104298
+	joint[4]: -0.771896
+	joint[5]: -1.64715
+Point #11
+	joint[0]: -0.30833
+	joint[1]: 1.28325
+	joint[2]: -1.06237
+	joint[3]: 0.0103922
+	joint[4]: -0.775442
+	joint[5]: -1.6471
+Point #12
+	joint[0]: -0.308323
+	joint[1]: 1.27603
+	joint[2]: -1.06596
+	joint[3]: 0.0103542
+	joint[4]: -0.779068
+	joint[5]: -1.64706
+Point #13
+	joint[0]: -0.308315
+	joint[1]: 1.26886
+	joint[2]: -1.06942
+	joint[3]: 0.0103157
+	joint[4]: -0.782775
+	joint[5]: -1.64701
+Point #14
+	joint[0]: -0.308308
+	joint[1]: 1.26174
+	joint[2]: -1.07276
+	joint[3]: 0.0102769
+	joint[4]: -0.78656
+	joint[5]: -1.64696
+Point #15
+	joint[0]: -0.308301
+	joint[1]: 1.25467
+	joint[2]: -1.07597
+	joint[3]: 0.0102377
+	joint[4]: -0.790424
+	joint[5]: -1.64692
+Point #16
+	joint[0]: -0.308293
+	joint[1]: 1.24765
+	joint[2]: -1.07905
+	joint[3]: 0.0101982
+	joint[4]: -0.794366
+	joint[5]: -1.64687
+Point #17
+	joint[0]: -0.308286
+	joint[1]: 1.24068
+	joint[2]: -1.082
+	joint[3]: 0.0101584
+	joint[4]: -0.798384
+	joint[5]: -1.64682
+Point #18
+	joint[0]: -0.308279
+	joint[1]: 1.23375
+	joint[2]: -1.08483
+	joint[3]: 0.0101183
+	joint[4]: -0.802479
+	joint[5]: -1.64677
+Point #19
+	joint[0]: -0.308271
+	joint[1]: 1.22687
+	joint[2]: -1.08754
+	joint[3]: 0.010078
+	joint[4]: -0.806649
+	joint[5]: -1.64672
+Point #20
+	joint[0]: -0.308264
+	joint[1]: 1.22005
+	joint[2]: -1.09012
+	joint[3]: 0.0100375
+	joint[4]: -0.810894
+	joint[5]: -1.64666
+---- New trajectory ----
+Start state: 
+	joint[0]: 0
+	joint[1]: 0
+	joint[2]: -0.563567
+	joint[3]: 2.28809
+	joint[4]: 0.466876
+	joint[5]: 0.0253422
+	joint[6]: 1.77268
+	joint[7]: 3.14151
+	joint[8]: -0.308264
+	joint[9]: 1.22005
+	joint[10]: -1.09012
+	joint[11]: 0.0100375
+	joint[12]: -0.810894
+	joint[13]: -1.64666
+	joint[14]: -0.0545002
+	joint[15]: 0.0545002
+Plan trajectory points: 10
+Point #0
+	joint[0]: -0.308264
+	joint[1]: 1.22005
+	joint[2]: -1.09012
+	joint[3]: 0.0100375
+	joint[4]: -0.810894
+	joint[5]: -1.64666
+Point #1
+	joint[0]: -0.268682
+	joint[1]: 1.21999
+	joint[2]: -1.0914
+	joint[3]: 0.0106405
+	joint[4]: -0.810276
+	joint[5]: -1.54063
+Point #2
+	joint[0]: -0.2291
+	joint[1]: 1.21993
+	joint[2]: -1.09268
+	joint[3]: 0.0112435
+	joint[4]: -0.809658
+	joint[5]: -1.43461
+Point #3
+	joint[0]: -0.189517
+	joint[1]: 1.21987
+	joint[2]: -1.09396
+	joint[3]: 0.0118466
+	joint[4]: -0.809039
+	joint[5]: -1.32858
+Point #4
+	joint[0]: -0.149935
+	joint[1]: 1.21981
+	joint[2]: -1.09524
+	joint[3]: 0.0124496
+	joint[4]: -0.808421
+	joint[5]: -1.22255
+Point #5
+	joint[0]: -0.110353
+	joint[1]: 1.21975
+	joint[2]: -1.09652
+	joint[3]: 0.0130526
+	joint[4]: -0.807803
+	joint[5]: -1.11652
+Point #6
+	joint[0]: -0.0707707
+	joint[1]: 1.21969
+	joint[2]: -1.09781
+	joint[3]: 0.0136556
+	joint[4]: -0.807185
+	joint[5]: -1.01049
+Point #7
+	joint[0]: -0.0311885
+	joint[1]: 1.21963
+	joint[2]: -1.09909
+	joint[3]: 0.0142586
+	joint[4]: -0.806567
+	joint[5]: -0.904463
+Point #8
+	joint[0]: 0.00839371
+	joint[1]: 1.21957
+	joint[2]: -1.10037
+	joint[3]: 0.0148617
+	joint[4]: -0.805949
+	joint[5]: -0.798434
+Point #9
+	joint[0]: 0.0479759
+	joint[1]: 1.21951
+	joint[2]: -1.10165
+	joint[3]: 0.0154647
+	joint[4]: -0.805331
+	joint[5]: -0.692405
+---- New trajectory ----
+Start state: 
+	joint[0]: 0
+	joint[1]: 0
+	joint[2]: -0.563567
+	joint[3]: 2.28809
+	joint[4]: 0.466876
+	joint[5]: 0.0253422
+	joint[6]: 1.77268
+	joint[7]: 3.14151
+	joint[8]: 0.0479337
+	joint[9]: 1.21954
+	joint[10]: -1.10162
+	joint[11]: 0.0155295
+	joint[12]: -0.80539
+	joint[13]: -0.692496
+	joint[14]: -0.0545002
+	joint[15]: 0.0545002
+Plan trajectory points: 21
+Point #0
+	joint[0]: 0.0479337
+	joint[1]: 1.21954
+	joint[2]: -1.10162
+	joint[3]: 0.0155295
+	joint[4]: -0.80539
+	joint[5]: -0.692496
+Point #1
+	joint[0]: 0.0479171
+	joint[1]: 1.2264
+	joint[2]: -1.09899
+	joint[3]: 0.0155926
+	joint[4]: -0.80116
+	joint[5]: -0.692571
+Point #2
+	joint[0]: 0.0479005
+	joint[1]: 1.23332
+	joint[2]: -1.09623
+	joint[3]: 0.0156555
+	joint[4]: -0.797005
+	joint[5]: -0.692644
+Point #3
+	joint[0]: 0.0478839
+	joint[1]: 1.24028
+	joint[2]: -1.09334
+	joint[3]: 0.0157179
+	joint[4]: -0.792925
+	joint[5]: -0.692717
+Point #4
+	joint[0]: 0.0478672
+	joint[1]: 1.24729
+	joint[2]: -1.09034
+	joint[3]: 0.0157799
+	joint[4]: -0.788922
+	joint[5]: -0.692789
+Point #5
+	joint[0]: 0.0478506
+	joint[1]: 1.25435
+	joint[2]: -1.08721
+	joint[3]: 0.0158415
+	joint[4]: -0.784995
+	joint[5]: -0.69286
+Point #6
+	joint[0]: 0.047834
+	joint[1]: 1.26146
+	joint[2]: -1.08395
+	joint[3]: 0.0159025
+	joint[4]: -0.781145
+	joint[5]: -0.69293
+Point #7
+	joint[0]: 0.0478174
+	joint[1]: 1.26861
+	joint[2]: -1.08057
+	joint[3]: 0.015963
+	joint[4]: -0.777374
+	joint[5]: -0.692998
+Point #8
+	joint[0]: 0.0478008
+	joint[1]: 1.27581
+	joint[2]: -1.07706
+	joint[3]: 0.0160228
+	joint[4]: -0.773682
+	joint[5]: -0.693066
+Point #9
+	joint[0]: 0.0477842
+	joint[1]: 1.28306
+	joint[2]: -1.07342
+	joint[3]: 0.0160821
+	joint[4]: -0.770069
+	joint[5]: -0.693132
+Point #10
+	joint[0]: 0.0477676
+	joint[1]: 1.29036
+	joint[2]: -1.06965
+	joint[3]: 0.0161406
+	joint[4]: -0.766537
+	joint[5]: -0.693197
+Point #11
+	joint[0]: 0.047751
+	joint[1]: 1.29771
+	joint[2]: -1.06576
+	joint[3]: 0.0161984
+	joint[4]: -0.763086
+	joint[5]: -0.693261
+Point #12
+	joint[0]: 0.0477343
+	joint[1]: 1.30511
+	joint[2]: -1.06173
+	joint[3]: 0.0162554
+	joint[4]: -0.759718
+	joint[5]: -0.693323
+Point #13
+	joint[0]: 0.0477177
+	joint[1]: 1.31255
+	joint[2]: -1.05757
+	joint[3]: 0.0163115
+	joint[4]: -0.756433
+	joint[5]: -0.693384
+Point #14
+	joint[0]: 0.0477011
+	joint[1]: 1.32004
+	joint[2]: -1.05328
+	joint[3]: 0.0163667
+	joint[4]: -0.753232
+	joint[5]: -0.693444
+Point #15
+	joint[0]: 0.0476845
+	joint[1]: 1.32759
+	joint[2]: -1.04885
+	joint[3]: 0.016421
+	joint[4]: -0.750116
+	joint[5]: -0.693501
+Point #16
+	joint[0]: 0.0476679
+	joint[1]: 1.33518
+	joint[2]: -1.04429
+	joint[3]: 0.0164743
+	joint[4]: -0.747086
+	joint[5]: -0.693558
+Point #17
+	joint[0]: 0.0476513
+	joint[1]: 1.34283
+	joint[2]: -1.03958
+	joint[3]: 0.0165265
+	joint[4]: -0.744143
+	joint[5]: -0.693613
+Point #18
+	joint[0]: 0.0476347
+	joint[1]: 1.35052
+	joint[2]: -1.03474
+	joint[3]: 0.0165776
+	joint[4]: -0.741288
+	joint[5]: -0.693666
+Point #19
+	joint[0]: 0.0476181
+	joint[1]: 1.35827
+	joint[2]: -1.02976
+	joint[3]: 0.0166276
+	joint[4]: -0.738523
+	joint[5]: -0.693717
+Point #20
+	joint[0]: 0.0476015
+	joint[1]: 1.36606
+	joint[2]: -1.02464
+	joint[3]: 0.0166763
+	joint[4]: -0.735847
+	joint[5]: -0.693766
+---- New trajectory ----
+Start state: 
+	joint[0]: 0
+	joint[1]: 0
+	joint[2]: -0.563567
+	joint[3]: 2.28809
+	joint[4]: 0.466876
+	joint[5]: 0.0253422
+	joint[6]: 1.77268
+	joint[7]: 3.14151
+	joint[8]: 0.0476015
+	joint[9]: 1.36606
+	joint[10]: -1.02464
+	joint[11]: 0.0166763
+	joint[12]: -0.735847
+	joint[13]: -0.693766
+	joint[14]: -0.0545002
+	joint[15]: 0.0545002
+Plan trajectory points: 13
+Point #0
+	joint[0]: 0.0476015
+	joint[1]: 1.36606
+	joint[2]: -1.02464
+	joint[3]: 0.0166763
+	joint[4]: -0.735847
+	joint[5]: -0.693766
+Point #1
+	joint[0]: 0.0476496
+	joint[1]: 1.35949
+	joint[2]: -1.02911
+	joint[3]: 0.0166386
+	joint[4]: -0.737957
+	joint[5]: -0.693763
+Point #2
+	joint[0]: 0.0476977
+	joint[1]: 1.35295
+	joint[2]: -1.03348
+	joint[3]: 0.0166
+	joint[4]: -0.740131
+	joint[5]: -0.693758
+Point #3
+	joint[0]: 0.0477458
+	joint[1]: 1.34644
+	joint[2]: -1.03774
+	joint[3]: 0.0165606
+	joint[4]: -0.742368
+	joint[5]: -0.693752
+Point #4
+	joint[0]: 0.0477939
+	joint[1]: 1.33997
+	joint[2]: -1.04191
+	joint[3]: 0.0165203
+	joint[4]: -0.744667
+	joint[5]: -0.693745
+Point #5
+	joint[0]: 0.047842
+	joint[1]: 1.33354
+	joint[2]: -1.04599
+	joint[3]: 0.0164792
+	joint[4]: -0.747028
+	joint[5]: -0.693736
+Point #6
+	joint[0]: 0.0478901
+	joint[1]: 1.32714
+	joint[2]: -1.04996
+	joint[3]: 0.0164373
+	joint[4]: -0.749451
+	joint[5]: -0.693726
+Point #7
+	joint[0]: 0.0479383
+	joint[1]: 1.32078
+	joint[2]: -1.05384
+	joint[3]: 0.0163947
+	joint[4]: -0.751934
+	joint[5]: -0.693716
+Point #8
+	joint[0]: 0.0479864
+	joint[1]: 1.31445
+	joint[2]: -1.05763
+	joint[3]: 0.0163513
+	joint[4]: -0.754477
+	joint[5]: -0.693704
+Point #9
+	joint[0]: 0.0480345
+	joint[1]: 1.30815
+	joint[2]: -1.06132
+	joint[3]: 0.0163073
+	joint[4]: -0.757079
+	joint[5]: -0.693691
+Point #10
+	joint[0]: 0.0480827
+	joint[1]: 1.30189
+	joint[2]: -1.06493
+	joint[3]: 0.0162626
+	joint[4]: -0.75974
+	joint[5]: -0.693676
+Point #11
+	joint[0]: 0.0481308
+	joint[1]: 1.29566
+	joint[2]: -1.06843
+	joint[3]: 0.0162173
+	joint[4]: -0.76246
+	joint[5]: -0.693661
+Point #12
+	joint[0]: 0.048179
+	joint[1]: 1.28947
+	joint[2]: -1.07185
+	joint[3]: 0.0161714
+	joint[4]: -0.765238
+	joint[5]: -0.693645
+---- New trajectory ----
+Start state: 
+	joint[0]: 0
+	joint[1]: 0
+	joint[2]: -0.563567
+	joint[3]: 2.28809
+	joint[4]: 0.466876
+	joint[5]: 0.0253422
+	joint[6]: 1.77268
+	joint[7]: 3.14151
+	joint[8]: 0.048179
+	joint[9]: 1.28947
+	joint[10]: -1.07185
+	joint[11]: 0.0161714
+	joint[12]: -0.765238
+	joint[13]: -0.693645
+	joint[14]: -0.0545002
+	joint[15]: 0.0545002
+Plan trajectory points: 10
+Point #0
+	joint[0]: 0.048179
+	joint[1]: 1.28947
+	joint[2]: -1.07185
+	joint[3]: 0.0161714
+	joint[4]: -0.765238
+	joint[5]: -0.693645
+Point #1
+	joint[0]: 0.0161617
+	joint[1]: 1.20897
+	joint[2]: -1.11663
+	joint[3]: 0.00513218
+	joint[4]: -0.772078
+	joint[5]: -0.609254
+Point #2
+	joint[0]: -0.0158556
+	joint[1]: 1.12848
+	joint[2]: -1.1614
+	joint[3]: -0.00590703
+	joint[4]: -0.778918
+	joint[5]: -0.524863
+Point #3
+	joint[0]: -0.047873
+	joint[1]: 1.04798
+	joint[2]: -1.20618
+	joint[3]: -0.0169462
+	joint[4]: -0.785758
+	joint[5]: -0.440472
+Point #4
+	joint[0]: -0.0798903
+	joint[1]: 0.967483
+	joint[2]: -1.25095
+	joint[3]: -0.0279855
+	joint[4]: -0.792598
+	joint[5]: -0.356081
+Point #5
+	joint[0]: -0.111908
+	joint[1]: 0.886987
+	joint[2]: -1.29573
+	joint[3]: -0.0390247
+	joint[4]: -0.799439
+	joint[5]: -0.27169
+Point #6
+	joint[0]: -0.143925
+	joint[1]: 0.80649
+	joint[2]: -1.3405
+	joint[3]: -0.0500639
+	joint[4]: -0.806279
+	joint[5]: -0.187299
+Point #7
+	joint[0]: -0.175942
+	joint[1]: 0.725993
+	joint[2]: -1.38528
+	joint[3]: -0.0611031
+	joint[4]: -0.813119
+	joint[5]: -0.102908
+Point #8
+	joint[0]: -0.20796
+	joint[1]: 0.645497
+	joint[2]: -1.43006
+	joint[3]: -0.0721423
+	joint[4]: -0.819959
+	joint[5]: -0.0185169
+Point #9
+	joint[0]: -0.239977
+	joint[1]: 0.565
+	joint[2]: -1.47483
+	joint[3]: -0.0831815
+	joint[4]: -0.826799
+	joint[5]: 0.0658742

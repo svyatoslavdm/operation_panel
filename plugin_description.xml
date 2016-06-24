@@ -1,0 +1,37 @@
+<library path="libOperationPanel">
+  <class name="PickAndPlacePanel"
+         type="rviz::OperationPanel"
+         base_class_type="rviz::Panel">
+    <description>
+      Panel for pick and place operation performance
+    </description>
+  </class>
+  <class name="ScanPanel"
+         type="rviz::ScanPanel"
+         base_class_type="rviz::Panel">
+    <description>
+      Panel for object scanning and measuring
+    </description>
+  </class>
+  <class name="OpenBagPanel"
+         type="rviz::OpenBagPanel"
+         base_class_type="rviz::Panel">
+    <description>
+      Panel for bag opening 
+    </description>
+  </class>
+  <class name="UnscrewPanel"
+         type="rviz::UnscrewPanel"
+         base_class_type="rviz::Panel">
+    <description>
+      Panel for bag opening 
+    </description>
+  </class>
+  <class name="MasterSlavePanel"
+         type="rviz::MasterSlavePanel"
+         base_class_type="rviz::Panel">
+    <description>
+      Panel for bag opening 
+    </description>
+  </class>
+</library>
